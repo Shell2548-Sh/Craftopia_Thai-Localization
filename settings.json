@@ -1,0 +1,15 @@
+[
+    {
+        "code": "th-TH",
+        "dictPath": "\\lang\\th.json",
+        "fontPath": "",
+        "atlasSize": 4096,
+        "names": [
+            "TH",
+            "th-TH",
+            "Thai",
+            "Thailand"
+        ],
+        "spcUnicode": []
+    }
+]

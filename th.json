@@ -161,7 +161,7 @@
   "100_UI/Button/RespawnCheckPoint": "เกิดจุดเช็คพ้อยท์",
   "100_UI/Button/RespawnDungeonEntrance": "เกิดที่ทางเข้าดันเจี้ยน",
   "100_UI/Button/RespawnPortal": "เกิดที่พอร์ทัลที่ใช้ล่าสุด",
-  "100_UI/Button/RespawnStartPoint": "เกิดที่จุดเริ่มต้น"
+  "100_UI/Button/RespawnStartPoint": "เกิดที่จุดเริ่มต้น",
   "100_UI/Button/Restore": "ย้อนเซฟ",
   "100_UI/Button/Save": "เซฟและแบ็คอัพทุกๆ 5 นาที",
   "100_UI/Button/SaveDataAndBackUp": "แปลงบันทึกข้อมูล\nและการสำรองข้อมูล",
@@ -982,7 +982,7 @@
   "100_UI/SortingMachine/AllNO": "ยกเว้นรายการทั้งหมด",
   "100_UI/SortingMachine/AllOK": "อนุญาตรายการทั้งหมด",
   "100_UI/SortingMachine/SameNO": "ยกเว้นเฉพาะรายการที่เลือก",
-  "100_UI/SortingMachine/SameOK": "อนุญาตเฉพาะรายการที่เลือก"
+  "100_UI/SortingMachine/SameOK": "อนุญาตเฉพาะรายการที่เลือก",
   "100_UI/Speech/AssignRespawn": "ตั้งจุดเกิดที่ดาบใหญ่แห่งการฟื้นฟูแล้ว",
   "100_UI/Speech/AttackByOutOfRange": "คุณโจมตีจากนอกระยะที่มีประสิทธิภาพ",
   "100_UI/Speech/CantCallMeteo": "ไม่สามารถเสกอุกาบาตในนี้ได้",
@@ -1468,7 +1468,7 @@
   "100_UI/Text/Sensor/Meteo": "ตรวจพบการตกของอุกกาบาตใกล้ๆ",
   "100_UI/Text/Sensor/Portal": "ตรวจพบพอร์ทัลวาร์ปใกล้ๆ",
   "100_UI/Text/Sensor/Respawn": "ตรวจพบดาบฟื้นฟูที่ยิ่งใหญ่ใกล้ๆ",
-  "100_UI/Text/Sensor/Ruin": "ตรวจพบซากปรักหักพัง!"
+  "100_UI/Text/Sensor/Ruin": "ตรวจพบซากปรักหักพัง!",
   "100_UI/Text/Sensor/SoulOrb": "พบลูกแก้ววิญญานแถวนี้",
   "100_UI/Text/Sensor/SupplyPod": "ตรวจพบการมาถึงของ Supply Pod ใกล้ๆ",
   "100_UI/Text/Sensor/Switch_Dungeon": "เป้าหมายของเครื่องตรวจจับถูกเปลี่ยน: ดันเจี้ยน",
@@ -1483,7 +1483,7 @@
   "100_UI/Text/Setting up automation": "กำลังตั้งค่าการทำงานอัตโนมัติ",
   "100_UI/Text/ShieldBreak": "เกราะแตก!",
   "100_UI/Text/ShipmentDetail": "สินค้าที่ใส่ลงในหีบนี้จะถูกส่งและแลกเป็นเงินสด",
-  "100_UI/Text/ShipmentTime": "เวลาที่เหลือจนกว่าจะส่ง"
+  "100_UI/Text/ShipmentTime": "เวลาที่เหลือจนกว่าจะส่ง",
   "100_UI/Text/ShootingInterval": "ช่องว่าง",
   "100_UI/Text/Signboard": "แก้ไขป้ายโฆษณา",
   "100_UI/Text/Skill": "สกิล",

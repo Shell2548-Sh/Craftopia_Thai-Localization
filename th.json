@@ -818,7 +818,7 @@
   "100_UI/Setting/Creative/NoDeath/Detail": "ชีวิตของคุณจะไม่ตกต่ำกว่า 1 หากคุณเปิดใช้งาน",
   "100_UI/Setting/Creative/NoHunger": "โหมดไม่หิว",
   "100_UI/Setting/Creative/NoHunger/Detail": "ความพอใจของคุณจะไม่ลดลงหากคุณเปิดใช้งาน",
-  "100_UI/Setting/Creative/PlayerLevel": "ระดับผู้เล่นเริ่มต้น"
+  "100_UI/Setting/Creative/PlayerLevel": "ระดับผู้เล่นเริ่มต้น",
   "100_UI/Setting/Creative/ReadIsland": "ปัญหา/การป้อน/โหลด ID เกาะ",
   "100_UI/Setting/Creative/ResetIsland": "รีเซ็ตเกาะ",
   "100_UI/Setting/Creative/SimpleCraft": "การสร้างง่ายๆ",
